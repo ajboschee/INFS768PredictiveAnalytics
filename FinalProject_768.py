@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sun Sep 23 10:36:55 2018
 
-@author: justi
 """
 
 # import libraries
